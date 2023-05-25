@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@font-face {
+    font-family: 'fontello';
+    src: url('../../fonts/fontello.eot?50189347');
+    src: url('../../fonts/fontello.eot?50189347#iefix') format('embedded-opentype'),
+    url('../../fonts/fontello.woff?50189347') format('woff'),
+    url('../../fonts/fontello.ttf?50189347') format('truetype'),
+    url('../../fonts/fontello.svg?50189347#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
